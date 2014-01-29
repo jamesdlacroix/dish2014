@@ -1,50 +1,39 @@
 ---
-- title: Friday, Feb. 22
+- title: Friday, Feb. 21
   events:
-    - label: Nossi Photography Studio
+    - label: Emma
 
     - time: "6:30 pm"
       title: Doors Open
 
     - time: "7:30 pm"
-      title: Keynote Speaker - Dana Tanamachi
+      title: Keynote Speaker - Ethan Bodnar
 
-- title: Saturday, Feb. 23
+- title: Saturday, Feb. 22
   events:
-    - label: Nossi Classrooms
+    - label: MTSU
 
     - time: "9:00 am"
-      title: Portfolio Review Group 1 & Breakfast
+      title: Portfolio Review Group 1
 
     - time: "10:00 am"
-      title: Portfolio Review Group 2 & Breakfast
+      title: Portfolio Review Group 2
 
-    - label: Nossi Photography Studio
+    - time: "11:00 am"
+      title: Panel Discussion - "Advice for New Grads"
 
-    - time: "11:05 am"
-      title: Opening Remarks
+    - time: "11:45 am"
+      title: Creative Circus
 
-    - time: "11:15 am"
-      title: Mary Kate McDevitt
-
-    - time: "12:15 pm"
-      title: Jason Jones
-
-    - label: Nossi Lounge
-
-    - time: "1:00 pm"
+    - time: "12:00 pm"
       title: Lunch
 
-    - label: Nossi Photography Studio
+    - time: "1:00 pm"
+      title: Hand Lettering Workshop
 
-    - time: "2:15 pm"
-      title: Aaron Johnson & Bradley Elliott
+    - time: "1:45 pm"
+      title: Raffle
 
-    - time: "3:15 pm"
-      title: Sasha Barr
+    - time: "2:00 pm"
+      title: Kerry Graham - Self Promotion and Branding
 
-    - time: "4:15 pm"
-      title: Q&A
-
-    - time: "4:30 pm"
-      title: Closing Remarks

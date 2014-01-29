@@ -1,6 +1,6 @@
 # DISH Student Design Conference 2014
 
-Website for DISH Student Design Conference 2013 in Nashville, TN  
+Website for DISH Student Design Conference 2014 in Nashville, TN  
 [dishconference.com](http://dishconference.com)
 
 ### Contribute

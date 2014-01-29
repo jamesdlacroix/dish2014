@@ -100,7 +100,7 @@ class GoogleMap
     marker = @createMarker(@location)
     marker.setMap( map )
     # Create InfoWindow & add to map
-    infoContent = "<h5>Nossi College of Art</h5>590 Cheron Rd, Nashville, TN 37115"
+    infoContent = "<h5>Middle Tennessee State University</h5>1301 E Main St, Murfreesboro, TN 37130"
     infoWindow = @createInfoWindow(marker, infoContent)
     infoWindow.open(map, marker)
 
@@ -142,6 +142,6 @@ class GoogleMap
 jQuery ->
 
   coordinates =
-    lat: 36.243128
-    lng: -86.738529
+    lat: 35.8485288
+    lng: -86.367337
   map = new GoogleMap( google, coordinates, mapStyles )

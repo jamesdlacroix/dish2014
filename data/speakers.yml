@@ -1,43 +1,29 @@
 ---
-- name: Dana Tanamachi
-  organization: Tanamachi Studio
-  twitter: dana_tanamachi
-  image_filename: DanaTanamachi.jpg
+- name: Karen Cronin
+  organization: Cronin Creative
+  twitter: karencronin4
+  image_filename: KCronin.jpg
   websites:
-    - "TanamachiStudio.com"
+    - "cronincreative.net"
   bio: |
-       <p>Dana Tanamachi is a Texas-bred, Brooklyn-based graphic designer and letterer who enjoys living a quiet life and working with her hands. After designing Broadway show posters at <a href="http://www.spotnyc.com/" target="_blank">SpotCo</a> and working under <a href="http://www.louisefili.com/" target="_blank">Louise Fili</a>, Dana opened her own design & lettering boutique, Tanamachi Studio. She has been commissioned by clients such as Google, Yahoo!, Rugby Ralph Lauren, The Ace Hotel, Tommy Hilfiger, West Elm, and Bloomingdale’s. In 2011, she was named a <a href="http://adcyoungguns.org/" target="_blank">Young Gun</a> (YG9) by the Art Directors Club and a Young Creative to Watch by HOW Magazine. In 2012, Dana had the unique honor of creating custom cover art for <em>O</em>, <em>HOW</em>, and <em>TIME Magazines</em>.</p>
+       <p>A graduate of New York’s prestigious Parsons School of Design, Karen Cronin began her career in that city at <em>Interiors</em> magazine, where she worked under the direction of Colin Forbes at Pentagram and rose to the position of Art Director.</p><p>Leaving <em>Interiors</em>, Cronin moved to Singer Design, a small-but-feisty startup ad agency. At Singer Design, she worked on projects for an eclectic variety of clients, ranging from Bloomingdale’s to American Express Publishing to Lehman Brothers.</p><p>Moving to Nashville in 1993, Cronin established Cronin Design, a one-woman design business delivering award-winning work for a wide-ranging clientele that included all of Nashville’s major record labels. In 2007, she partnered with her writer husband, Peter Cronin, to establish Cronin Creative, a full-service boutique creative shop serving a diverse client base that includes companies large and small, local, regional and national.</p><p>Karen currently serves on the board of the Nashville chapter of the American Marketing Association (NAMA). She is also a judge for the Dove Awards Recorded Music Packaging category.</p><p>Awards include</p><ul><li><em>Communication Arts</em> magazine, Photography Annual (art direction)</li><li>Print magazine Regional Design Annual</li><li>Print magazine – “Best Logos and Symbols” book</li><li>Nashville chapter Advertising Federation – Addy Awards</li><li>Nashville Logo Competition</li><li>Nashville chapter AIGA – Case Awards</li></ul>
 
-- name: Sasha Barr
-  organization: Sub Pop Records /  Amigos Skateboards
-  twitter: 
-  image_filename: SashaBarr.jpg
+- name: Ethan Bodnar
+  organization: Skillshare
+  twitter: ethanbodnar
+  image_filename: ethanbodnar.jpg
   websites:
-    - "ThisIsTheNewYear.com"
-    - "AmigosSkateboards.com"
-    - "SubPop.com"
+    - "blog.ethanbodnar.com"
+    - "skillshare.com/design/"
   bio: >
-       <p>A Tennessee native, Sasha began making silkscreen posters for Memphis' independent music scene in 2001, while earning a degree in printmaking at the University. The posters paved the way for new design clients locally and nationally, and led to a myriad of experiences and growth in the freelance design and illustration world. A year after graduating from the University, he relocated to Seattle, WA in 2007 for a change of scenery and new opportunities. He lucked his way in to the art department of Sub Pop Records, where he has been since. When not toiling away with albums and other label goods, he finds some time for Amigos Skateboards, a skateboard company he art directs and co-owns with a group of friends, and the occasional freelance or poster gig. He has fallen for the Northwest, but deeply misses the South.</p>
+       <p><strong>Artist, designer, and entrepreneur living in Brooklyn, New York</strong></p><p>He's an education designer and Dean of the School of Design at Skillshare.</p><p>Previously, he was on the national board of AIGA, made a book called Creative Grab Bag which was published by HOW Books, and graduated from the Hartford Art School.</p><p>He's interned at co:lab and Behance, and worked on freelance projects with clients such as 826 National and the Do Lectures USA.</p><p>He enjoys blueberry pancakes, swing dancing, and making things with friends.</p><p><strong>Press:</strong></p><p>His work has been in Speak Up and Fast Co. Design. Honored to have received the Worldstudio AIGA Scholarship and Sappi Ideas That Matters grant for Project M. Also, an Eagle Scout.</p><p><strong>Speaking:</strong></p><p>Currently speaking about education.</p><ul><li>TEDxFurmanU – crafting your own path, 2012</li><li>EduCon – project-based learning, 2011</li><li>AIGA National Design Conference – future of design education, 2008</li><li>Skillshare online class – making your own portfolio website, 2013</li></ul>
 
-- name: Jason B. Jones
-  organization: Tyemill / Otterball
-  twitter: JasonJones
-  image_filename: JasonJones.jpg
+- name: Kerry Graham
+  organization: Bohan
+  twitter:
+  image_filename: KerryGraham.jpg
   websites:
-    - "Tyemill.com"
-    - "Otterball.com"
+    - "bohanideas.com"
   bio: >
-       <p>The word “entrepreneur” is a fancy word that really means “someone who has the drive and tenacity to get things done.”</p>
-       <p>In Jason B. Jones’ short career he has assisted in starting two award-winning design agencies and caught the Dot-Com boom as it rolled through Silicon Valley with a San Francisco start-up. His business savvy-approach to the creative process has made him a valuable asset, truly unique among his peers.</p>
-       <p>He currently serves as Web Protagonist & Co-Owner of Nashville-based design firm Otterball as well as Creative Director at web-app development house Tyemill.  Current duties revolve around designer development, creative strategy, brand management and conceptual design.</p>
-       <p>He has had the opportunity to work closely with such clients as Warby Parker, Bonobos, Ivanka Trump, CMT, EMI, Sony and Warner Bros.</p>
-       <p>Jason is married to his wife Rebecca and is the proud father to two dachshunds. When he is not producing and managing design for his clients, Jason spends his time as a regular contributor to .NET Magazine, speaking regularly on design related topics, and serving as Interactive Media Director for Nashville’s Musicians Corner, a city-wide initiative bringing the Nashville music community together.</p>
+       <p></p>
 
-- name: Mary Kate McDevitt
-  organization: Magnetic North
-  twitter: MaryKateMcD
-  image_filename: MaryKateMcDevitt.jpg
-  websites:
-    - "MaryKateMcDevitt.com"
-  bio: >
-       <p>Mary Kate McDevitt is a letterer and illustrator living and working in Portland, OR but grew up in a small town in Pennsylvania. Mary Kate graduated from Tyler School of Art in 2007 with a degree in Graphic Design and Illustration. She worked as a designer at a studio in Lancaster, PA for 2 years. In 2010, Mary Kate moved out to Portland, OR to pursue a career as a freelance illustrator and artist and has since worked for clients including Nintendo, Fast Company, United States Post Office and Oprah Magazine.</p>
