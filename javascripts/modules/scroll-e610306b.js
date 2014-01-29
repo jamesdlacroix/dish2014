@@ -1,0 +1,1 @@
+(function(){jQuery(function(){return $("#nav").localScroll({hash:!0})})}).call(this);
