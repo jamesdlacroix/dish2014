@@ -1,13 +1,4 @@
 ---
-- name: Karen Cronin
-  organization: Cronin Creative
-  twitter: karencronin4
-  image_filename: KCronin.jpg
-  websites:
-    - "cronincreative.net"
-  bio: |
-       <p>A graduate of New York’s prestigious Parsons School of Design, Karen Cronin began her career in that city at <em>Interiors</em> magazine, where she worked under the direction of Colin Forbes at Pentagram and rose to the position of Art Director.</p><p>Leaving <em>Interiors</em>, Cronin moved to Singer Design, a small-but-feisty startup ad agency. At Singer Design, she worked on projects for an eclectic variety of clients, ranging from Bloomingdale’s to American Express Publishing to Lehman Brothers.</p><p>Moving to Nashville in 1993, Cronin established Cronin Design, a one-woman design business delivering award-winning work for a wide-ranging clientele that included all of Nashville’s major record labels. In 2007, she partnered with her writer husband, Peter Cronin, to establish Cronin Creative, a full-service boutique creative shop serving a diverse client base that includes companies large and small, local, regional and national.</p><p>Karen currently serves on the board of the Nashville chapter of the American Marketing Association (NAMA). She is also a judge for the Dove Awards Recorded Music Packaging category.</p><p>Awards include</p><ul><li><em>Communication Arts</em> magazine, Photography Annual (art direction)</li><li>Print magazine Regional Design Annual</li><li>Print magazine – “Best Logos and Symbols” book</li><li>Nashville chapter Advertising Federation – Addy Awards</li><li>Nashville Logo Competition</li><li>Nashville chapter AIGA – Case Awards</li></ul>
-
 - name: Ethan Bodnar
   organization: Skillshare
   twitter: ethanbodnar
@@ -15,7 +6,7 @@
   websites:
     - "blog.ethanbodnar.com"
     - "skillshare.com/design/"
-  bio: >
+  bio: |
        <p><strong>Artist, designer, and entrepreneur living in Brooklyn, New York</strong></p><p>He's an education designer and Dean of the School of Design at Skillshare.</p><p>Previously, he was on the national board of AIGA, made a book called Creative Grab Bag which was published by HOW Books, and graduated from the Hartford Art School.</p><p>He's interned at co:lab and Behance, and worked on freelance projects with clients such as 826 National and the Do Lectures USA.</p><p>He enjoys blueberry pancakes, swing dancing, and making things with friends.</p><p><strong>Press:</strong></p><p>His work has been in Speak Up and Fast Co. Design. Honored to have received the Worldstudio AIGA Scholarship and Sappi Ideas That Matters grant for Project M. Also, an Eagle Scout.</p><p><strong>Speaking:</strong></p><p>Currently speaking about education.</p><ul><li>TEDxFurmanU – crafting your own path, 2012</li><li>EduCon – project-based learning, 2011</li><li>AIGA National Design Conference – future of design education, 2008</li><li>Skillshare online class – making your own portfolio website, 2013</li></ul>
 
 - name: Kerry Graham
@@ -27,3 +18,20 @@
   bio: >
        <p>Kerry earned his BA degree in English and Drama at Vanderbilt University, and was a professional actor for four years before beginning an advertising career that has taken him from junior copywriter to agency president; from Atlanta to Boston, New York and South Carolina; and finally back to Nashville.</p><p>He has worked at several “Mad Men” ad agencies, including J. Walter Thompson and Hill Holliday/Boston, and has won numerous national and international industry awards - including the One Show, CLIOs, British Design and Art Direction, Communication Arts, EFFIEs and National ADDYs. Kerry has also been selected “Copywriter of the Year” four times in three different cities, and he was named one of the “50 Greatest Atlanta Ad Writers of All Time.” Kerry has also written a novel called “Pitching the God Account” about a fictional ad agency in Nashville.</p><p>In 1993, Kerry founded his own agency, Campaign, Inc., which became the agency of record for the 1996 Summer Olympic Games in Atlanta. After selling his company to The Buntin Group in 1997, Kerry and his family moved to Nashville where he became Buntin’s Vice Chairman, Chief Creative Officer.  In January of 2007, Kerry was named President of BOHAN Advertising | Marketing.</p><p>Kerry is active in the Nashville community, having served as President of the Tennessee Repertory Theater Board, Marketing Chair for the Adventure Science Center, and board member for the Tennessee Performing Arts Center, Cheekwood Botanical Garden and Art Museum, the Community Foundation of Middle Tennessee, Ensworth School and Wake Forest University’s School of Business.</p><p>Kerry has lead branding workshops, seminars and classes at Belmont University, Vanderbilt’s Owen Graduate School of Management, Boston College, the University of Georgia, MTSU and the Portfolio Center in Atlanta. He was also a participant in the Leadership Nashville program’s class of 2008-2009. An avid biker and bad golfer, Kerry and his wife Linda are the parents of three children: Bennett, Avery and Madeline.</p>
 
+- name: Karen Cronin
+  organization: Cronin Creative
+  twitter: karencronin4
+  image_filename: KCronin.jpg
+  websites:
+    - "cronincreative.net"
+  bio: >
+       <p>A graduate of New York’s prestigious Parsons School of Design, Karen Cronin began her career in that city at <em>Interiors</em> magazine, where she worked under the direction of Colin Forbes at Pentagram and rose to the position of Art Director.</p><p>Leaving <em>Interiors</em>, Cronin moved to Singer Design, a small-but-feisty startup ad agency. At Singer Design, she worked on projects for an eclectic variety of clients, ranging from Bloomingdale’s to American Express Publishing to Lehman Brothers.</p><p>Moving to Nashville in 1993, Cronin established Cronin Design, a one-woman design business delivering award-winning work for a wide-ranging clientele that included all of Nashville’s major record labels. In 2007, she partnered with her writer husband, Peter Cronin, to establish Cronin Creative, a full-service boutique creative shop serving a diverse client base that includes companies large and small, local, regional and national.</p><p>Karen currently serves on the board of the Nashville chapter of the American Marketing Association (NAMA). She is also a judge for the Dove Awards Recorded Music Packaging category.</p><p>Awards include</p><ul><li><em>Communication Arts</em> magazine, Photography Annual (art direction)</li><li>Print magazine Regional Design Annual</li><li>Print magazine – “Best Logos and Symbols” book</li><li>Nashville chapter Advertising Federation – Addy Awards</li><li>Nashville Logo Competition</li><li>Nashville chapter AIGA – Case Awards</li></ul>
+
+- name: Meredith C. Bullock
+  organization: Meredith C. Bullock
+  twitter:
+  image_filename: meredith-c-bullock.jpg
+  websites:
+    - "meredithcbullock.com"
+  bio: >
+       <p>I'm a self-taught artist specializing in art, calligraphy, design and creative coaching. I'm the founder of both Hazel Wonderland and my self-titled business Meredith C. Bullock. My work has been internationally recognized and showcased on blogs like Once Wed, Oh So beautiful Paper and Etsy with clients from all over the world.</p><p>I've always had a passion to create and have combined it with my mission is to help teach and coach creatives, artists and musicians how to grow their expertise, make more money, reach their goals, find balance and achieve success doing what they love.</p><p>My husband and I just moved to Nashville, TN with our black cat from New York.</p>
