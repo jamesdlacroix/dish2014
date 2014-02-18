@@ -136,6 +136,53 @@ class GoogleMap
     new @google.maps.InfoWindow
       content: content
 
+class GoogleMap2
+
+  constructor: (@google, @coordinates, @mapStyles)->
+    # Create LatLng object from coords
+    @location = @latLng( coordinates.lat, coordinates.lng )
+    # Create Map object
+    map = @createMap()
+    # Create Marker object & add to map
+    marker = @createMarker(@location)
+    marker.setMap( map )
+    # Create InfoWindow & add to map
+    infoContent = "<h5>Emma</h5>9 Lea Ave, Nashville, TN 37210"
+    infoWindow = @createInfoWindow(marker, infoContent)
+    infoWindow.open(map, marker)
+
+
+  latLng: (lat, lng)=>
+    new @google.maps.LatLng(lat, lng)
+
+  
+  options: =>
+    center: @location
+    zoom: 15
+    mapTypeId: @google.maps.MapTypeId.ROADMAP
+    styles: @mapStyles
+    streetViewControl: false
+    mapTypeControl: false
+    panControl: false
+    zoomControlOptions:
+      style: "SMALL"
+    scrollwheel: false
+
+    
+  createMap: =>
+    new @google.maps.Map( document.getElementById('map-canvas2'), @options() )
+
+  
+  createMarker: (location)=>
+    new @google.maps.Marker
+      position: location
+      animation: @google.maps.Animation.DROP
+
+
+  createInfoWindow: (marker, content)=>
+    new @google.maps.InfoWindow
+      content: content
+
 
 
 
@@ -145,3 +192,9 @@ jQuery ->
     lat: 35.8485288
     lng: -86.367337
   map = new GoogleMap( google, coordinates, mapStyles )
+
+jQuery ->
+  coordinates2 =
+    lat: 36.157894
+    lng: -86.767401
+  map2 = new GoogleMap2( google, coordinates2, mapStyles )
