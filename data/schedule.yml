@@ -1,13 +1,7 @@
 ---
-- title: Friday, Feb. 21
+- title: Friday, Feb. 21 - CANCELED
   events:
-    - label: Emma
-
-    - time: "6:30 pm"
-      title: Doors Open
-
-    - time: "7:30 pm"
-      title: Keynote Speaker - Ethan Bodnar
+    - label: Due to air travel complications, this event has been canceled and rescheduled for 3pm Saturday
 
 - title: Saturday, Feb. 22
   events:
@@ -30,4 +24,7 @@
 
     - time: "2:00 pm"
       title: Kerry Graham - Self Promotion and Branding
+
+    - time: "3:00 pm"
+      title: Keynote Speaker - Ethan Bodnar
 
